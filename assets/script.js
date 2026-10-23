@@ -1,6 +1,6 @@
 //== A. SEGITIGA ==
-var a_segitiga = 6; //anggap sebagai sisi 1 untuk perhitungan keliling
-var t_segitiga = 8; //anggap sebagai sisi 2 untuk perhitungan keliling
+var a_segitiga = 6; //anggap sebagai sisi 1 untuk perhitungan luas
+var t_segitiga = 8; //anggap sebagai sisi 2 untuk perhitungan luas
 var hasil_luasSGTG = 0.5 * a_segitiga * t_segitiga; //hasi luas
 
 var sm_segitiga = 10; //ini sisi miring, anggap sebagai sisi 3
